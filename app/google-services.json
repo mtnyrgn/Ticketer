@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "999121259141",
+    "firebase_url": "https://ticketer-b4cd2.firebaseio.com",
+    "project_id": "ticketer-b4cd2",
+    "storage_bucket": "ticketer-b4cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999121259141:android:9b53d30c549b7103",
+        "android_client_info": {
+          "package_name": "com.ticketer.metin.ticketer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999121259141-qapk3454lrsnnl4f6odq8gqjtm3gvtp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticketer.metin.ticketer",
+            "certificate_hash": "bab508dc01dee4de5999aaafa8fdb3414d9a48bc"
+          }
+        },
+        {
+          "client_id": "999121259141-a79degm87po5hhj68kdtvfp0iblfdgfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjBlvdjp2xighfurpGMnUkj528Ex7Bxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999121259141-a79degm87po5hhj68kdtvfp0iblfdgfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
